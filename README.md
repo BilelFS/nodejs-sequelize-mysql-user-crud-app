@@ -10,5 +10,5 @@ npm install
 
 ### Project Run
 ```
-node server.js
+npm start
 ```
